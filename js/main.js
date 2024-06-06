@@ -1,6 +1,7 @@
 $(document).ready(function(){
     $('#caurosel-imgs').slick({
         autoplay: true,
+        arrows: false
     })
 
     
